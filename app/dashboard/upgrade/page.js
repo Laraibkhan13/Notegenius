@@ -132,7 +132,7 @@ function UpgradePlans() {
             >
               Get Started
             </a> */}
-            {/* <div className=" mt-5">
+            <div className=" mt-5">
             <PayPalButtons
             onApprove={()=>onPaymentSuccess()}
             createOrder={(data,actions)=>{
@@ -147,7 +147,7 @@ function UpgradePlans() {
                 ]
               })
             }}/>
-            </div> */}
+            </div>
             
           </div>
 
