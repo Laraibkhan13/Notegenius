@@ -1,3 +1,17 @@
+# NoteGenius 📚✨
+
+NoteGenius is a powerful SaaS application designed to revolutionize the way you take notes. Upload your PDFs and let Gemini AI transform the content into concise, well-structured notes. Edit and save your notes with ease, making your note-taking process seamless and efficient. Whether you're a student, professional, or lifelong learner, NoteGenius ensures AI-powered note-taking at its finest!
+
+## Features
+
+PDF Upload: Easily upload your documents.
+
+AI-Powered Notes Generation: Generate notes with the help of Gemini AI.
+
+Edit & Save: Personalize your notes and save them for future reference.
+
+Get started today with smarter note-taking! 🚀
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
